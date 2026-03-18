@@ -1,0 +1,4 @@
+Site reports should be structured with short professional summaries and section headings.
+Safety inspection reports should document non-compliance and corrective action.
+Material reports should mention material receipt, usage, stock balance, and shortages.
+Weekly progress reports should summarize completed works, ongoing tasks, delays, and next steps.

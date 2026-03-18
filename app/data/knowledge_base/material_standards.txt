@@ -1,0 +1,4 @@
+Concrete-related work documentation should mention slump test results, curing method, and pour details where available.
+Steel usage reporting should mention quantity and location of use.
+Material summaries should record received quantity, consumption, and remaining stock.
+Equipment logs should mention active equipment and operational status.

@@ -1,0 +1,11 @@
+Generate a Daily Site Report with these sections:
+1. Project Details
+2. Weather Conditions
+3. Work Completed
+4. Work In Progress
+5. Manpower and Resources
+6. Quality Checks
+7. Safety Observations
+8. Issues / Delays
+9. Next Day Plan
+10. Remarks

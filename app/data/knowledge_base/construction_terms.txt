@@ -1,0 +1,4 @@
+Daily site reports should include weather conditions, manpower deployed, work completed, delays, and remarks.
+Construction documentation should be concise, formal, and structured with clear headings.
+Progress reporting should distinguish between completed work and ongoing work.
+Professional construction reports should avoid casual wording.

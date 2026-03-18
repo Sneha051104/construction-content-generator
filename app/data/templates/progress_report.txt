@@ -1,0 +1,10 @@
+Generate a Weekly Progress Report with these sections:
+1. Project Overview
+2. Work Completed This Week
+3. Work In Progress
+4. Resource Deployment
+5. Quality Summary
+6. Safety Summary
+7. Delays / Constraints
+8. Plan for Next Week
+9. Remarks

@@ -1,0 +1,8 @@
+Generate a Safety Inspection Report with these sections:
+1. Project Details
+2. Inspection Summary
+3. Safety Observations
+4. Unsafe Acts / Conditions
+5. Corrective Actions
+6. Responsible Team / Supervisor
+7. Remarks

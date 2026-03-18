@@ -1,0 +1,8 @@
+Generate a Material Summary Report with these sections:
+1. Project Details
+2. Materials Received
+3. Materials Used
+4. Balance Stock
+5. Quality Notes
+6. Shortages / Delays
+7. Remarks
